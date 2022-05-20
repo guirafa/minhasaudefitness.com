@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 20 May 2022 16:28:35 at http://mindsetproduction.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mindsetproduction.com.br/ -O1 "C:\Meus Sites\Hydra" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:30:09	Error: 	"Not Found" (404) at link mindsetproduction.com.br/xmlrpc.php?rsd (from mindsetproduction.com.br/)
+16:30:19	Error: 	"Not Found" (404) at link mindsetproduction.com.br/politicadeprivacidade/ (from mindsetproduction.com.br/)
+16:30:19	Error: 	"Not Found" (404) at link mindsetproduction.com.br/termosdeuso/ (from mindsetproduction.com.br/)
+16:30:19	Error: 	"Service Temporarily Unavailable" (503) at link mindsetproduction.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.0 (from mindsetproduction.com.br/)
+16:30:21	Error: 	"Service Temporarily Unavailable" (503) at link mindsetproduction.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0 (from mindsetproduction.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0)
+16:30:24	Error: 	"Service Temporarily Unavailable" (503) at link mindsetproduction.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot (from mindsetproduction.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+16:30:28	Error: 	"Not Found" (404) at link mindsetproduction.com.br/c (from https://connect.facebook.net/en_US/fbevents.js)
+16:30:28	Error: 	"Not Found" (404) at link mindsetproduction.com.br/b (from https://connect.facebook.net/en_US/fbevents.js)
+16:30:28	Error: 	"Not Found" (404) at link mindsetproduction.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+16:30:28	Error: 	"Service Temporarily Unavailable" (503) at link mindsetproduction.com.br/-negative.svg (from mindsetproduction.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.5)
+16:30:28	Error: 	"Not Found" (404) at link mindsetproduction.com.br/OPR/ (from mindsetproduction.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 53 seconds : 56 links scanned, 44 files written (5259088 bytes overall) [2778750 bytes received at 24590 bytes/sec], 5618378 bytes transferred using HTTP compression in 49 files, ratio 48%, 3.5 requests per connection
+(11 errors, 0 warnings, 0 messages)
